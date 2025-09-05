@@ -9,13 +9,14 @@ recentimente eu e meus colegas desenvolvemos um cardapio digital
 ---
 
 ## 🚀 Minhas Skill
+<div align="center" style="display: inline_block">
 <code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
 <code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
 <code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
 <code><img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
  <code><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo" />
  <code><img src="https://skillicons.dev/icons?i=twitter" height="50" alt="twitter logo" />
-
+<div align="center" style="display: inline_block">
 
 
 ---
